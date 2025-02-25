@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jahanvi24274@iiitd.ac.in**
 
-- ⚡ Fun fact **I can design ;)**
+- ⚡ Fun fact **I want to be a cat ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

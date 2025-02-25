@@ -7,8 +7,7 @@ A freshman in college, a new coder, and a creative mind who loves blending tech 
 
 ## 🔥 What You’ll Find Here
 - 🖥️ Languages: C, C++, Python
-- ✨ Experimental projects (a.k.a. "Will it work? Let's find out!")
-- 🎥 Video edits & motion graphics ideas
+- ✨ My course projects
 - 🛠️ Clean(ish) code and fun design explorations
 - 🐞 Bugs that are actually "undocumented features"
 

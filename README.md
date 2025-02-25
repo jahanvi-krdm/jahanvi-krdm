@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm Jahanvi<3</h1>
-<h3 align="center">New to programming !</h3>
+# 👋 Hey there, curious coder!
 
-- 🌱 I’m currently learning **DSA**
+Welcome to my GitHub! You’ve just stumbled upon a treasure trove of code, creativity, and caffeine-fueled commits. Buckle up! 🚀
 
-- 💬 Ask me about **Design and Video editing**
+## 🧐 Who Am I?
+A freshman in college, a new coder, and a creative mind who loves blending tech with design!
 
-- 📫 How to reach me **jahanvi24274@iiitd.ac.in**
+## 🔥 What You’ll Find Here
+- 🖥️ Languages: C, C++, Python
+- ✨ Experimental projects (a.k.a. "Will it work? Let's find out!")
+- 🎥 Video edits & motion graphics ideas
+- 🛠️ Clean(ish) code and fun design explorations
+- 🐞 Bugs that are actually "undocumented features"
 
-- ⚡ Fun fact **I want to be a cat ;)**
+## 🎯 Fun Facts
+- My debugging technique: "Print statements and prayers."
+- Git commit messages range from "fixed it" to "why is this happening."
+- I believe in good UI, smooth animations, and functional design.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/anzzuki.aep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anzzuki.aep" height="30" width="40" /></a>
-</p>
+## 📬 Let’s Connect!
+- 📸 Instagram: [@anzzuki.aep](https://www.instagram.com/anzzuki.aep/)
+Wanna talk about design or motion graphics? Let’s collaborate and create something cool! 🎬✨
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+⚡ Happy coding and designing! 🚀
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahanvi-krdm&show_icons=true&locale=en&layout=compact" alt="jahanvi-krdm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahanvi-krdm&show_icons=true&locale=en" alt="jahanvi-krdm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahanvi-krdm&" alt="jahanvi-krdm" /></p>

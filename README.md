@@ -1,25 +1,34 @@
-# 👋 Hey there, curious coder!
+# Hey there, I'm Jahanvi! 
 
-Welcome to my GitHub! You’ve just stumbled upon a treasure trove of code, creativity, and caffeine-fueled commits. Buckle up! 🚀
+## About Me
+💡 A curious mind exploring the intersection of technology, design, and creativity. I'm a B.Tech (CSAI) student at Indraprastha Institute of Information Technology, Delhi, passionate about coding, crafting stunning visuals, and making things that just *work*. Whether it's solving problems through code or designing intuitive interfaces, I'm always up for a challenge!  
 
-## 🧐 Who Am I?
-A freshman in college, a new coder, and a creative mind who loves blending tech with design!
+📬 Reach me at jahanvi24274@iiitd.ac.in or drop a DM! 🚀
 
-## 🔥 What You’ll Find Here
-- 🖥️ Languages: C, C++, Python
-- ✨ My course projects
-- 🛠️ Clean(ish) code and fun design explorations
-- 🐞 Bugs that are actually "undocumented features"
+---
 
-## 🎯 Fun Facts
-- My debugging technique: "Print statements and prayers."
-- Git commit messages range from "fixed it" to "why is this happening."
-- I believe in good UI, smooth animations, and functional design.
+## 🚀 Skills & Interests
 
-## 📬 Let’s Connect!
-- 📸 Instagram: [@anzzuki.aep](https://www.instagram.com/anzzuki.aep/)
-Wanna talk about design or motion graphics? Let’s collaborate and create something cool! 🎬✨
+### 💻 Programming Languages
+- C, C++, Python  
 
-⚡ Happy coding and designing! 🚀
+### 🛠️ Tools and Technologies
+- Git, GitHub, GitHub Actions, VSCode, Figma, After Effects  
+
+---
+
+## 🎨 Side hustles!
+🎨 **Design Team Member** - WIT (Women in Tech)  
+💡 **Design Team Member** - GirlUp Udaan  
+🛍️ **Merch Designer (Occasionally)** - Helping various clubs with merch designs  
+(The design portfolio will be attached later!)
+
+---
+
+📸 Instagram: [@anzzuki.aep](https://www.instagram.com/anzzuki.aep/)
+
+Feel free to explore my GitHub—it's a work in progress, just like me! 🚀
+
+
 
 

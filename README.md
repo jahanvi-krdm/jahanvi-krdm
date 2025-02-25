@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jahanvi<3</h1>
 <h3 align="center">New to programming !</h3>
 
+- 🌱 I’m currently learning **DSA**
+
+- 💬 Ask me about **Design and Video editing**
+
+- 📫 How to reach me **jahanvi24274@iiitd.ac.in**
+
 - ⚡ Fun fact **I can design ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/anzzuki.aep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anzzuki.aep" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

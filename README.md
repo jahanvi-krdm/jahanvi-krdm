@@ -18,10 +18,7 @@
 ---
 
 ## 🎨 Side hustles!
-🎨 **Design Team Member** - WIT (Women in Tech)  
-💡 **Design Team Member** - GirlUp Udaan  
-🛍️ **Merch Designer (Occasionally)** - Helping various clubs with merch designs  
-(The design portfolio will be attached later!)
+Graphic Design, Writing, Social Psychology
 
 ---
 
